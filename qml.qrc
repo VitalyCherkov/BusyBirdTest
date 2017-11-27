@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>upload/avatar_64.png</file>
+        <file>Categories.qml</file>
+        <file>upload/search-ico.png</file>
+        <file>upload/logo.png</file>
+        <file>upload/avatar_256.png</file>
+        <file>upload/avatar_128.png</file>
+        <file>upload/47080.png</file>
+        <file>CircledContactDelegate.qml</file>
+        <file>HeaderToolBar.qml</file>
+        <file>upload/footer-bar/burn.svg</file>
+        <file>upload/footer-bar/notifications.svg</file>
+        <file>upload/footer-bar/searching.svg</file>
+        <file>upload/footer-bar/user.svg</file>
+        <file>upload/footer-bar/work.svg</file>
+        <file>StartPage.qml</file>
+        <file>upload/footer-bar/work.png</file>
+        <file>upload/footer-bar/user.png</file>
+        <file>upload/footer-bar/searching.png</file>
+        <file>upload/footer-bar/notifications.png</file>
+        <file>upload/footer-bar/burn.png</file>
+        <file>upload/Flaticon.ttf</file>
+        <file>ServicesByCategory.qml</file>
+        <file>ServiceShortDelegate.qml</file>
+        <file>ServiceShortItemInner.qml</file>
+        <file>ServicesFilters.qml</file>
+        <file>UsualMenuItem.qml</file>
+        <file>SwitcherMenuItem.qml</file>
+        <file>SettingsContainer.qml</file>
+        <file>ServicesSortingPage.qml</file>
+        <file>RadioMenuItem.qml</file>
+        <file>FooterTabBarItem.qml</file>
+        <file>FooterTabBar.qml</file>
+        <file>UserPage.qml</file>
+        <file>CircledImage.qml</file>
+        <file>ContactMenuItem.qml</file>
+        <file>UserPageHeader.qml</file>
+        <file>upload/Socials.ttf</file>
+        <file>upload/MaterialIcons.ttf</file>
+    </qresource>
+</RCC>
